@@ -1,0 +1,22 @@
+﻿<Properties StartupConfiguration="{BE59C06D-9AAC-64A8-0390-8CA6FBC949DD}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scprits/Options.cs">
+    <Files>
+      <File FileName="Assets/Scprits/Player.cs" Line="70" Column="43" />
+      <File FileName="Assets/Scprits/Bullet.cs" Line="35" Column="17" />
+      <File FileName="Assets/Scprits/Explode.cs" Line="7" Column="30" />
+      <File FileName="Assets/Scprits/Heart.cs" Line="8" Column="36" />
+      <File FileName="Assets/Scprits/Born.cs" Line="33" Column="1" />
+      <File FileName="Assets/Scprits/Enemy.cs" Line="140" Column="6" />
+      <File FileName="Assets/Scprits/MapController.cs" Line="91" Column="13" />
+      <File FileName="Assets/Scprits/PlayerManager.cs" Line="6" Column="37" />
+      <File FileName="Assets/Scprits/Options.cs" Line="7" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="510e1a3c-c12b-439d-b358-1cd1263a35f1" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
